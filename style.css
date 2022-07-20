@@ -1,0 +1,30 @@
+body{
+    background: rgb(148, 106, 144);
+    font: normal 15pt arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(48, 47, 47);
+}
+
+#res{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
